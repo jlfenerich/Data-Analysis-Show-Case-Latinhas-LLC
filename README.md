@@ -12,9 +12,9 @@ O notebook Jupyter `generating-data.ipynb` abrange as seguintes áreas:
 
 ## Ferramentas Utilizadas
 
-    Python e Jupyter Notebooks para geração e análise de dados.
-    PostgreSQL para gestão de dados em um ambiente de banco de dados.
-    DBeaver para execução de scripts SQL.
+  - **Python** e **Jupyter Notebooks** para geração e análise de dados.
+  - **PostgreSQL** para gestão de dados em um ambiente de banco de dados.
+  - **DBeaver** para execução de scripts **SQL**.
 
 ## Como Utilizar
 
