@@ -18,6 +18,11 @@ O notebook Jupyter `generating-data.ipynb` abrange as seguintes áreas:
 - 🐘 PostgreSQL para gestão de dados em um ambiente de banco de dados.
 - 🦫 DBeaver ou outra ferramenta de SQL para execução de scripts SQL.
 
+
+## Dashboards
+![image](https://github.com/jlfenerich/Data-Analysis-Show-Case-Latinhas-LLC/assets/49050754/91d393e7-adc6-4b7f-9f81-1be3217cd421)
+
+
 ## Como Utilizar
 
 Clone o repositório e abra o notebook Jupyter para explorar e executar as análises. Certifique-se de ter um ambiente de banco de dados configurado para executar os scripts SQL.
